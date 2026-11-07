@@ -52,7 +52,7 @@ text{font-family:"Cascadia Code","Cascadia Mono","JetBrains Mono","Fira Code",Co
 <g style="animation:a17 20.0s linear infinite;opacity:0"><text x="40" y="392" class="p" font-weight="bold">♥ top languages</text></g>
 <g style="animation:a19 20.0s linear infinite;opacity:0"><text x="40" y="416" class="w">Python      </text><rect x="150" y="405" width="220" height="10" rx="5" fill="#ffffff" opacity=".07"/><rect x="150" y="405" width="220" height="10" rx="5" fill="#ff8fc0" style="animation:a18 20.0s linear infinite;transform-box:fill-box;transform-origin:left;transform:scaleX(0)"/><text x="382" y="416" class="d">100%</text></g>
 <g style="animation:a20 20.0s linear infinite;opacity:0"><text x="40" y="460" class="p" font-weight="bold">♥ currently working on</text></g>
-<g style="animation:a21 20.0s linear infinite;opacity:0"><text x="40" y="484"><tspan class="u">mjsvt</tspan><tspan class="d">  ·  7 commits this week</tspan></text></g>
+<g style="animation:a21 20.0s linear infinite;opacity:0"><text x="40" y="484"><tspan class="u">mjsvt</tspan><tspan class="d">  ·  8 commits this week</tspan></text></g>
 <g style="animation:a22 20.0s linear infinite;opacity:0"><text x="40" y="524"><tspan class="u">majo@Majo</tspan><tspan class="w">:</tspan><tspan class="p">~</tspan><tspan class="w">$ </tspan></text><rect x="154.26999999999998" y="511" width="8.79" height="18" fill="var(--pink)" style="animation:blink 1s steps(1) infinite"/></g>
 </g>
 <rect x=".5" y=".5" width="799" height="557" rx="14" fill="none" stroke="#ff7eb6" stroke-opacity=".35"/>
