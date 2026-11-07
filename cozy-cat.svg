@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="170" viewBox="0 0 320 170">
+  <style>
+    text {
+      font-family: "Courier New", Courier, monospace;
+      font-size: 22px;
+      white-space: pre;
+      fill: #f08fb0;            /* rosa pastel un poco más intenso para fondo claro */
+    }
+    .z { fill: #d9a5c0; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #ffc2d9; }   /* rosa pastel más suave para fondo oscuro */
+      .z   { fill: #e8b4cc; }
+    }
+  </style>
+
+  <text xml:space="preserve">
+    <tspan x="30" y="35">  /\_/\</tspan>
+    <tspan x="30" y="65"> ( -.- )  <tspan class="z">zZz</tspan></tspan>
+    <tspan x="30" y="95">  /   \</tspan>
+    <tspan x="30" y="125"> (_)-(_)~</tspan>
+    <tspan x="30" y="155">  cozy cat</tspan>
+  </text>
+</svg>
